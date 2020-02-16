@@ -1,12 +1,11 @@
 module.exports = {
-  pathPrefix: '/blog',
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    title: `考えたら辛くなるので仕組み化して脳停止したい`,
+    author: `Jima chu`,
+    description: `仕事・育児・家事から目を背けたいので仕組み化して辛さから逃げるための日記`,
     siteUrl: `https://jimachu.github.io/blog`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `ji_ma_chu`,
     },
   },
   plugins: [
@@ -58,7 +57,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `考えたら辛くなるので仕組み化して脳停止したい`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
