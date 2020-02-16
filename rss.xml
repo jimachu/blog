@@ -1,1 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[考えたら辛くなるので仕組み化して脳停止したい]]></title><description><![CDATA[仕事・育児・家事から目を背けたいので仕組み化して辛さから逃げるための日記]]></description><link>https://jimachu.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 16 Feb 2020 15:38:52 GMT</lastBuildDate><item><title><![CDATA[Hello World. Goodbye World.]]></title><description><![CDATA[初投稿。]]></description><link>https://jimachu.github.io/blog/2020017/</link><guid isPermaLink="false">https://jimachu.github.io/blog/2020017/</guid><pubDate>Mon, 17 Feb 2020 00:12:33 GMT</pubDate><content:encoded>&lt;p&gt;初投稿。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World. Goodbye World.]]></title><description><![CDATA[初投稿。]]></description><link>https://jimachu.github.io/blog/hello-world/</link><guid isPermaLink="false">https://jimachu.github.io/blog/hello-world/</guid><pubDate>Mon, 17 Feb 2020 00:12:33 GMT</pubDate><content:encoded>&lt;p&gt;初投稿。&lt;/p&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[考えたら辛くなるので仕組み化して脳停止したい]]></title><description><![CDATA[仕事・育児・家事から目を背けたいので仕組み化して辛さから逃げるための日記]]></description><link>https://jimachu.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 16 Feb 2020 16:07:45 GMT</lastBuildDate><item><title><![CDATA[今日の振り返り.]]></title><description><![CDATA[今日は嫁のおばあちゃんに子どもを預かってもらえたから、1日パソコンができた。
+嫁も都合で外に出ていたため、ほぼ1日自由に過ごせて心が安らいだ。 今日やったこと blogを作った twitterのアカウントを作った GitHubのアカウントを作った React…]]></description><link>https://jimachu.github.io/blog/20200117/</link><guid isPermaLink="false">https://jimachu.github.io/blog/20200117/</guid><pubDate>Mon, 17 Feb 2020 00:40:33 GMT</pubDate><content:encoded>&lt;p&gt;今日は嫁のおばあちゃんに子どもを預かってもらえたから、1日パソコンができた。
+嫁も都合で外に出ていたため、ほぼ1日自由に過ごせて心が安らいだ。&lt;/p&gt;
+&lt;h2&gt;今日やったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;blogを作った&lt;/li&gt;
+&lt;li&gt;twitterのアカウントを作った&lt;/li&gt;
+&lt;li&gt;GitHubのアカウントを作った&lt;/li&gt;
+&lt;li&gt;Reactの勉強をした&lt;/li&gt;
+&lt;li&gt;Google AnalyticsのTagに関する勉強をした&lt;/li&gt;
+&lt;li&gt;GitHub Pagesとnetlifyについて少し学んだ&lt;/li&gt;
+&lt;li&gt;Gitの使い方を学んだ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;良かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;twitterでQiitaをフォローしたこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;悪かったこと&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;YouTubeを数時間見てしまったこと&lt;/li&gt;
+&lt;li&gt;blogの構築にハマってなかなか抜け出せなかったこと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;次回に向けて&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Graph QLの勉強&lt;/li&gt;
+&lt;li&gt;Pycharmの機能を使いこなす&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;方針&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://qiita.com/itosho/items/9565c6ad2ffc24c09364&quot;&gt;コミットの書き方&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://qiita.com/KosukeSone/items/514dd24828b485c69a05&quot;&gt;Git-flow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Git&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://qiita.com/iorionda/items/c7e0aca399371068a9b8&quot;&gt;1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://qiita.com/kkyouhei/items/f7588566cba0364ea832&quot;&gt;2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www-creators.com/archives/2020&quot;&gt;3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;今週の目標&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;blogを見るに耐えるものになるまでカスタマイズしたい&lt;/li&gt;
+&lt;li&gt;Kaggleの情報まとめサイトを作りたい(Djangoを使う)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;これから読みたい記事&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://help.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site&quot;&gt;GitHub Pagesに関する詳しい内容&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Gatsbyの仕組み&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://qiita.com/uehaj/items/1b7f0a86596353587466&quot;&gt;1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/eureka-engineering/how-gatsby-works-bec4349caa12&quot;&gt;2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://qiita.com/TsutomuNakamura/items/72d8cf9f07a5a30be048&quot;&gt;React入門&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Hello World. Goodbye World.]]></title><description><![CDATA[初投稿。]]></description><link>https://jimachu.github.io/blog/hello-world/</link><guid isPermaLink="false">https://jimachu.github.io/blog/hello-world/</guid><pubDate>Mon, 17 Feb 2020 00:12:33 GMT</pubDate><content:encoded>&lt;p&gt;初投稿。&lt;/p&gt;</content:encoded></item></channel></rss>
