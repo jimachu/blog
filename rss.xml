@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[考えたら辛くなるので仕組み化して脳停止したい]]></title><description><![CDATA[仕事・育児・家事から目を背けたいので仕組み化して辛さから逃げるための日記]]></description><link>https://jimachu.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 16 Feb 2020 16:07:45 GMT</lastBuildDate><item><title><![CDATA[今日の振り返り.]]></title><description><![CDATA[今日は嫁のおばあちゃんに子どもを預かってもらえたから、1日パソコンができた。
-嫁も都合で外に出ていたため、ほぼ1日自由に過ごせて心が安らいだ。 今日やったこと blogを作った twitterのアカウントを作った GitHubのアカウントを作った React…]]></description><link>https://jimachu.github.io/blog/20200117/</link><guid isPermaLink="false">https://jimachu.github.io/blog/20200117/</guid><pubDate>Mon, 17 Feb 2020 00:40:33 GMT</pubDate><content:encoded>&lt;p&gt;今日は嫁のおばあちゃんに子どもを預かってもらえたから、1日パソコンができた。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[考えたら辛くなるので仕組み化して脳停止したい]]></title><description><![CDATA[仕事・育児・家事から目を背けたいので仕組み化して辛さから逃げるための日記]]></description><link>https://jimachu.github.io/blog</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 23 Feb 2020 02:53:18 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[今日の目標 blogを充実させる見るに耐えるものにする Qiitaの良記事をリストアップする 目標を作る ダッシュボードを作成する https://qiita.com/uehaj/items/1b7f0a86596353587466
+ここを軸に理解していく https…]]></description><link>https://jimachu.github.io/blog/20200223/</link><guid isPermaLink="false">https://jimachu.github.io/blog/20200223/</guid><content:encoded>&lt;p&gt;今日の目標&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;blogを充実させる見るに耐えるものにする&lt;/li&gt;
+&lt;li&gt;Qiitaの良記事をリストアップする&lt;/li&gt;
+&lt;li&gt;目標を作る&lt;/li&gt;
+&lt;li&gt;ダッシュボードを作成する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://qiita.com/uehaj/items/1b7f0a86596353587466&quot;&gt;https://qiita.com/uehaj/items/1b7f0a86596353587466&lt;/a&gt;
+ここを軸に理解していく&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mottox2.com/posts/308&quot;&gt;https://mottox2.com/posts/308&lt;/a&gt;
+&lt;code class=&quot;language-text&quot;&gt;youtube:https://www.youtube.com/embed/2Xc9gXyf2G4&lt;/code&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[今日の振り返り.]]></title><description><![CDATA[今日は嫁のおばあちゃんに子どもを預かってもらえたから、1日パソコンができた。
+嫁も都合で外に出ていたため、ほぼ1日自由に過ごせて心が安らいだ。 今日やったこと blogを作った twitterのアカウントを作った GitHubのアカウントを作った React…]]></description><link>https://jimachu.github.io/blog/20200217/</link><guid isPermaLink="false">https://jimachu.github.io/blog/20200217/</guid><pubDate>Mon, 17 Feb 2020 00:40:33 GMT</pubDate><content:encoded>&lt;p&gt;今日は嫁のおばあちゃんに子どもを預かってもらえたから、1日パソコンができた。
 嫁も都合で外に出ていたため、ほぼ1日自由に過ごせて心が安らいだ。&lt;/p&gt;
 &lt;h2&gt;今日やったこと&lt;/h2&gt;
 &lt;ul&gt;
@@ -10,6 +21,7 @@
 &lt;li&gt;Google AnalyticsのTagに関する勉強をした&lt;/li&gt;
 &lt;li&gt;GitHub Pagesとnetlifyについて少し学んだ&lt;/li&gt;
 &lt;li&gt;Gitの使い方を学んだ&lt;/li&gt;
+&lt;li&gt;DWHとDataMartを学んだ&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;良かったこと&lt;/h2&gt;
 &lt;ul&gt;
